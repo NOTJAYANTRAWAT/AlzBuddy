@@ -1,1 +1,1 @@
-# ws-UI
+# alzhemierbuddy-UI
