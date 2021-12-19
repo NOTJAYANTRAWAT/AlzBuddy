@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908922025117",
+    "project_id": "alzbu-f0698",
+    "storage_bucket": "alzbu-f0698.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908922025117:android:226d32f5aa79fb47f11074",
+        "android_client_info": {
+          "package_name": "com.example.ws_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908922025117-fi9eueor9nlcbtng4gnkcp5g51g4igg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXvhekGR-z-sQOecE1ZbhjNo9VdY4LfGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908922025117-fi9eueor9nlcbtng4gnkcp5g51g4igg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
